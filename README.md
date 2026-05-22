@@ -80,11 +80,16 @@ I am actively building and scaling several full-stack applications:
 
 <div align="center">
 
-![Mehdi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MEHDImp4&show_icons=true&theme=radical&hide_border=true)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MEHDImp4&theme=radical" alt="Profile Details" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEHDImp4&layout=compact&theme=radical&hide_border=true)
+  <br><br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MEHDImp4&theme=radical&hide_border=true)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MEHDImp4&theme=radical" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MEHDImp4&theme=radical" alt="Most Commit Language" />
+
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=MEHDImp4&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
