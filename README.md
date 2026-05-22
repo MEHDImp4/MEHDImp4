@@ -89,7 +89,7 @@ I am actively building and scaling several full-stack applications:
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com?user=MEHDImp4&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MEHDImp4&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
