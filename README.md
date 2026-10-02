@@ -1,31 +1,24 @@
 # Mehdi Diouri
 
-**Full-Stack Developer · Computer Science & Networking Engineering Student (3IIR) at EMSI**  
-Kenitra & Rabat, Morocco
+**Full-stack developer | Web and mobile applications**
 
-I build practical web and mobile products, from responsive interfaces and backend APIs to data storage and self-hosted deployment. My recent work includes personal finance, media streaming, restaurant operations, and production workflow tools.
+I build software across the stack: polished interfaces, reliable APIs, data layers, and deployment. I’m studying Computer Science and Networking Engineering (3IIR) at EMSI in Morocco.
 
-## Featured projects
+I care about clear architecture and making products practical to use, run, and maintain.
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [DepanceAPP](https://github.com/MEHDImp4/DepanceAPP) | Self-hosted personal finance manager with budgets, recurring transactions, analytics, and encrypted backups | React, TypeScript, Express, Prisma, MariaDB |
-| [FINORA](https://github.com/MEHDImp4/FINORA) | Jellyfin client for Android with offline-ready playback and a native mobile experience | Expo, React Native, TypeScript |
-| [Motherson Box Management](https://github.com/MEHDImp4/Motherson-Box-Management) | Packaging workflow app with barcode scanning, role-based access, and audit trails | ASP.NET Core MVC, C#, SQL Server |
-| [Pulse](https://github.com/MEHDImp4/pulse) | Discord music bot with per-server queues, live playback controls, and Docker deployment | TypeScript, Node.js, discord.js |
+## Selected work
 
-## Tools I use
+- **[Pulse](https://github.com/MEHDImp4/pulse)** — Discord music bot with per-server queues, interactive playback controls, and Docker support. *TypeScript · discord.js · Docker*
+- **[FINORA](https://github.com/MEHDImp4/FINORA)** — Android client for Jellyfin with offline-ready playback. *Expo · React Native · TypeScript*
+- **[DepanceAPP](https://github.com/MEHDImp4/DepanceAPP)** — Self-hosted personal finance app for budgets, recurring transactions, analytics, and encrypted backups. *React · TypeScript · Express · Prisma · MariaDB*
+- **[JobTechSolution](https://github.com/MEHDImp4/JobTechSolution)** — Recruitment platform covering job offers, applications, interviews, and candidate evaluation. *Django · React · TypeScript*
 
-**Languages:** TypeScript, JavaScript, C#, Python, Java, SQL  
-**Application development:** React, React Native, Node.js, ASP.NET Core, Django  
-**Data and infrastructure:** PostgreSQL, MariaDB, SQL Server, Docker, Linux, GitHub Actions
+## Technologies
+
+**Frontend:** React, React Native, TypeScript  
+**Backend:** Node.js, Express, Python, Django, C#, ASP.NET Core  
+**Data and delivery:** PostgreSQL, MariaDB, SQL Server, Docker, GitHub Actions
 
 ## Connect
 
-- [Portfolio](https://mehdidiouri.dev/)
-- [LinkedIn](https://linkedin.com/in/diouri-mehdi)
-- [Email](mailto:mehdidiouri17@gmail.com)
-
----
-
-Open to building useful software with thoughtful teams.
+[Portfolio](https://mehdidiouri.dev/) · [LinkedIn](https://linkedin.com/in/diouri-mehdi) · [Email](mailto:mehdidiouri17@gmail.com)
